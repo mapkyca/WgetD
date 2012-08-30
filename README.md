@@ -10,7 +10,7 @@ I currently use it on a NAS to automatically download large files without my des
 Usage
 -----
 
-  ./wgetd.sh DIRECTORYTOMONITOR OUTPUTDIR
+     ./wgetd.sh DIRECTORYTOMONITOR OUTPUTDIR
 
 Where:
 
